@@ -13,7 +13,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Yassineafaila](https://www.frontendmentor.io/profile/Yassineafaila)
 - Twitter - [@AfailaYassine](https://www.twitter.com/AfailaYassine)
 
 
